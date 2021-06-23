@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PabloDantasDev
 - 👀 I’m interested in TECNOLOGIAS
-- 🌱 I’m currently learning fIVE TECNOLOGIAS
-- 💞️ I’m looking to collaborate on FRONT-END Client-Side
+- 🌱 I’m currently learning JAVA 
+- 💞️ I’m looking to collaborate on FRONT-END And BACK-END 
 - 📫 How to reach me pabloj72017@gmail.com
 
 <!---
