@@ -1,2 +1,4 @@
-# LogicaProgramaçãoEmJava
-Todos os exercícios resolvidos durante curso  de Logica de Programação em Java Pelo DevDOJO. 
+![PabloDantasDev GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloDantasDev&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDantasDev)](https://github.com/PabloDantasDev/github-readme-stats)
+
+
