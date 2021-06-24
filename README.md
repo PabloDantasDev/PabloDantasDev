@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pablo Henrique
+- 👋 Hi, I’m @PabloDantasDev
 - 👀 I’m interested in TECNOLOGIAS
 - 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on FRONT-END And BACK-END 
@@ -8,7 +8,13 @@
 PabloDantasDev/PabloDantasDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloDantasDev&theme=outrun&show_icons=true)
+![PabloDantasDev GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloDantasDev&theme=outrun&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDantasDeV)](https://github.com/PabloDantasDev/github-readme-stats)
+
+
+
 
 ESTUDANDO...
 
